@@ -5,7 +5,7 @@ const AppContext = React.createContext();
 
 const ContextProvider = ({ children }) => {
   const [showSubmenu, setShowSubmenu] = useState(false);
-  const [showMenu, setShowMenu] = useState(true);
+  const [showMenu, setShowMenu] = useState(false);
   const [text, setText] = useState({});
 
   const showMenuFunc = () => {
