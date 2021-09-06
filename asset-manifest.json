@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stripeNavbar/static/css/main.cdda2ef0.chunk.css",
+    "main.js": "/stripeNavbar/static/js/main.9e135502.chunk.js",
+    "main.js.map": "/stripeNavbar/static/js/main.9e135502.chunk.js.map",
+    "runtime-main.js": "/stripeNavbar/static/js/runtime-main.df61d6af.js",
+    "runtime-main.js.map": "/stripeNavbar/static/js/runtime-main.df61d6af.js.map",
+    "static/js/2.6185ebcd.chunk.js": "/stripeNavbar/static/js/2.6185ebcd.chunk.js",
+    "static/js/2.6185ebcd.chunk.js.map": "/stripeNavbar/static/js/2.6185ebcd.chunk.js.map",
+    "static/js/3.2884ccb3.chunk.js": "/stripeNavbar/static/js/3.2884ccb3.chunk.js",
+    "static/js/3.2884ccb3.chunk.js.map": "/stripeNavbar/static/js/3.2884ccb3.chunk.js.map",
+    "index.html": "/stripeNavbar/index.html",
+    "static/css/main.cdda2ef0.chunk.css.map": "/stripeNavbar/static/css/main.cdda2ef0.chunk.css.map",
+    "static/js/2.6185ebcd.chunk.js.LICENSE.txt": "/stripeNavbar/static/js/2.6185ebcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df61d6af.js",
+    "static/js/2.6185ebcd.chunk.js",
+    "static/css/main.cdda2ef0.chunk.css",
+    "static/js/main.9e135502.chunk.js"
+  ]
+}
